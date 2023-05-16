@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Memory-game/static/css/main.e6c13ad2.css",
+    "main.js": "/Memory-game/static/js/main.71f78657.js",
+    "static/js/787.e7ccf11e.chunk.js": "/Memory-game/static/js/787.e7ccf11e.chunk.js",
+    "static/media/memorychallenge.png": "/Memory-game/static/media/memorychallenge.318bf1812257a741ebee.png",
+    "static/media/cleanCode.svg": "/Memory-game/static/media/cleanCode.90fce679e1206eb38603c2336fbc4a44.svg",
+    "static/media/android.svg": "/Memory-game/static/media/android.dd86c47007e38bf4e4262d0dfc82b127.svg",
+    "static/media/moto.svg": "/Memory-game/static/media/moto.db9cf75f439ba00114a5f7ab57b92faa.svg",
+    "static/media/disney.svg": "/Memory-game/static/media/disney.f72fb22c0da7e22666f5bc530b4c1554.svg",
+    "static/media/gasolina.svg": "/Memory-game/static/media/gasolina.2d02c9196bb589a3cec22dd990cbedc0.svg",
+    "static/media/caminhao.svg": "/Memory-game/static/media/caminhao.45d98c2aa93d19dd5c811fbdf3172d16.svg",
+    "index.html": "/Memory-game/index.html",
+    "static/media/restart.svg": "/Memory-game/static/media/restart.65529b89e814d841b45dc41452ff7998.svg",
+    "static/media/estrela.svg": "/Memory-game/static/media/estrela.16795fe557849fbe18d9a0b309e2eaa3.svg",
+    "main.e6c13ad2.css.map": "/Memory-game/static/css/main.e6c13ad2.css.map",
+    "main.71f78657.js.map": "/Memory-game/static/js/main.71f78657.js.map",
+    "787.e7ccf11e.chunk.js.map": "/Memory-game/static/js/787.e7ccf11e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.71f78657.js"
+  ]
+}
